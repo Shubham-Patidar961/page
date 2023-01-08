@@ -1,0 +1,48 @@
+* {
+  padding: 0rem;
+  margin: 0rem;
+}
+body {
+  margin-left: 1.65rem;
+}
+#contaner {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1.65rem;
+}
+#sk {
+  padding: 8px 0px 8px 0px;
+}
+.frist {
+  padding-right: 8px;
+}
+.p-1 {
+  color: rgb(192, 174, 174);
+}
+.p-2 {
+  width: 4%;
+  background-color: blue;
+  height: 9px;
+}
+.p-5 {
+  width: 0%;
+  background-color: blue;
+  height: 9px;
+}
+.p-3 {
+  color: blue;
+}
+.p-4 {
+  color: rgb(192, 174, 174);
+}
+
+span {
+  color: green;
+}
+p {
+  padding-top: 3px;
+}
+#img-1 {
+}
+#img-2 {
+}
